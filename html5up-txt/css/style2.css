@@ -17,16 +17,55 @@
 }
 
 .ch-img-1 { 
-	background-image: url(../images/4.jpg);
+	background-image: url(../images/1.jpg);
+	background-size: 220px 220px;
 }
 
 .ch-img-2 { 
-	background-image: url(../images/5.jpg);
+	background-image: url(../images/gourav_soni.jpg);
+	background-size: 220px 220px;
 }
 
 .ch-img-3 { 
-	background-image: url(../images/6.jpg);
+	background-image: url(../images/abhishek.jpg);
+	background-size: 220px 220px;
 }
+
+.ch-img-4 { 
+	background-image: url(../images/ruchi.jpg);
+	background-size: 220px 220px;
+}
+
+.ch-img-5 { 
+	background-image: url(../images/gaurav_singhal.jpg);
+	background-size: 220px 220px;
+}
+
+.ch-img-6 { 
+	background-image: url(../images/vivek.jpg);
+	background-size: 220px 220px;
+}
+
+.ch-img-7 { 
+	background-image: url(../images/prabhakar.jpg);
+	background-size: 220px 220px;
+}
+
+.ch-img-8 { 
+	background-image: url(../images/shantanu.jpg);
+	background-size: 220px 220px;
+}
+
+.ch-img-9 { 
+	background-image: url(../images/nitin.jpg);
+	background-size: 220px 220px;
+}
+
+.ch-img-10 { 
+	background-image: url(../images/alka_meena.jpg);
+	background-size: 220px 220px;
+}
+
 
 .ch-info {
 	position: absolute;
